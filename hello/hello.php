@@ -6,7 +6,7 @@
     <title>Hello world</title>
 </head>
 <body>
-    <h1>Hello</h3>
-    <? php echo "My name is Cirrus"; ?>
+    <h1>Hello, new version is upcoming</h3>
+    <? php echo "My name is Cirrus Love"; ?>
 </body>
 </html>
